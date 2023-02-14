@@ -1,0 +1,6 @@
+This should not be here when I restore
+
+trying to simulate pull case
+
+from local - trying to simulate merge conflict
+from remote - To simulate merge conflict
