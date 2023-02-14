@@ -1,6 +1,6 @@
 Hello GIT.
 
-Today's date is 10th feb. 
+Today's date is 14th feb.
 
 This is my 3rd lecture of git
 
