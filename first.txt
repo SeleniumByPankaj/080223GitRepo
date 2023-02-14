@@ -1,11 +1,5 @@
 Hello GIT.
 
-Today's date is 10th feb. 
+Today's date is 14th feb.
 
-This is my 3rd lecture of git
-
-This is a test
-
-Checking with abhishek
-
-this I am adding from local repo to merge conflict
+adding line from remote repo master
